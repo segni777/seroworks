@@ -18,4 +18,4 @@ Seroworks publishes **weekly, judgment-forward signals** on:
 
 ## Archive
 
-- Signal #001 — Week of [01/05/2026]
+- [Signal #001 — Week of 01/05/2026](signals/signal-001.md)
